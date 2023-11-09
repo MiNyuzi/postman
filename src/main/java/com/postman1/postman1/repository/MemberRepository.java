@@ -1,6 +1,6 @@
 package com.postman1.postman1.repository;
 
-import com.example.postman.entity.MemberEntity;
+import com.postman1.postman1.entity.MemberEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;
