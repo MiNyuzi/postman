@@ -1,6 +1,6 @@
-package application.entity;
+package com.postman1.postman1.entity;
 
-import application.web.dto.CommDto;
+import com.postman1.postman1.web.dto.CommDto;
 import lombok.Getter;
 import lombok.Setter;
 

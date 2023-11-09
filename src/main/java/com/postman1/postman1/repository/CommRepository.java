@@ -1,7 +1,7 @@
-package application.repository;
+package com.postman1.postman1.repository;
 
-import application.entity.CommEntity;
-import application.entity.PostEntity;
+import com.postman1.postman1.entity.CommEntity;
+import com.postman1.postman1.entity.PostEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

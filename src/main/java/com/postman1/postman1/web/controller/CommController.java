@@ -1,7 +1,7 @@
-package application.web.controller;
+package com.postman1.postman1.web.controller;
 
-import application.service.CommService;
-import application.web.dto.CommDto;
+import com.postman1.postman1.service.CommService;
+import com.postman1.postman1.web.dto.CommDto;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

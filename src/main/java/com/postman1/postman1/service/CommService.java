@@ -1,10 +1,10 @@
-package application.service;
+package com.postman1.postman1.service;
 
-import application.entity.CommEntity;
-import application.entity.PostEntity;
-import application.repository.CommRepository;
+import com.postman1.postman1.entity.CommEntity;
+import com.postman1.postman1.entity.PostEntity;
+import com.postman1.postman1.repository.CommRepository;
 import application.repository.PostRepository;
-import application.web.dto.CommDto;
+import com.postman1.postman1.web.dto.CommDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
