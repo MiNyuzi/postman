@@ -1,6 +1,6 @@
-package controller;
+package com.postman1.postman1.web.controller;
 
-import entity.Post;
+import com.postman1.postman1.entity.Post;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.multipart.MultipartFile;
-import service.PostService;
+import com.postman1.postman1.service.PostService;
 
 @Controller
 public class PostController {

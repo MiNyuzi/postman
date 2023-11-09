@@ -1,4 +1,4 @@
-package entity;
+package com.postman1.postman1.entity;
 
 import lombok.Data;
 

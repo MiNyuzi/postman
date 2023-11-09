@@ -1,12 +1,12 @@
-package service;
+package com.postman1.postman1.service;
 
-import entity.Post;
+import com.postman1.postman1.entity.Post;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
-import repository.PostRepository;
+import com.postman1.postman1.repository.PostRepository;
 
 import java.io.File;
 import java.util.NoSuchElementException;

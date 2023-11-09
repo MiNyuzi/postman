@@ -1,6 +1,6 @@
-package repository;
+package com.postman1.postman1.repository;
 
-import entity.Post;
+import com.postman1.postman1.entity.Post;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;
