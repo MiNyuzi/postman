@@ -1,6 +1,6 @@
 package com.postman1.postman1.web.dto;
 
-import com.example.postman.entity.MemberEntity;
+import com.postman1.postman1.entity.MemberEntity;
 import lombok.*;
 
 @Getter

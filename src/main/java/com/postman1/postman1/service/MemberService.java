@@ -1,8 +1,8 @@
 package com.postman1.postman1.service;
 
-import com.example.postman.entity.MemberEntity;
-import com.example.postman.repository.MemberRepository;
-import com.example.postman.web.dto.MemberDto;
+import com.postman1.postman1.entity.MemberEntity;
+import com.postman1.postman1.repository.MemberRepository;
+import com.postman1.postman1.web.dto.MemberDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

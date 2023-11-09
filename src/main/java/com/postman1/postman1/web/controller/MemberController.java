@@ -1,7 +1,7 @@
 package com.postman1.postman1.web.controller;
 
-import com.example.postman.service.MemberService;
-import com.example.postman.web.dto.MemberDto;
+import com.postman1.postman1.service.MemberService;
+import com.postman1.postman1.web.dto.MemberDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
